@@ -1,0 +1,4 @@
+*.csv
+!procedure-action1.md
+*.log
+Thumbs.db
